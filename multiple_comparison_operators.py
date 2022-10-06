@@ -1,4 +1,4 @@
-age = 56
+age = 16
 name = "kalob"
 if age >= 18 and name == "kalob":
     print("Pass")
